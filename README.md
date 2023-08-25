@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , I'm Amir Salmasi 👋
 
 __I'm a dynamic machine learning programmer and engineer, always looking to take on big projects👌🏻__
 
